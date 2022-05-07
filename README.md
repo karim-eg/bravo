@@ -1,6 +1,8 @@
 # bravo
 <center>
-Bravo 3Lek Project
+Bravo 3Lek Project,
+ you can take a look at the original website here: https://bravo3lek.encept.co
+  
 
 ![Screenshot_7](https://user-images.githubusercontent.com/69405523/167271747-df71a6bb-19f5-4f72-a112-4640c2e8e610.png)
 
